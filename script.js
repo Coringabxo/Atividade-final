@@ -1,7 +1,8 @@
-  javascript
+
 document.getElementById("cadastroForm").addEventListener("submit", function(event) {
     event.preventDefault();
-
+  
+    
     var nome = document.getElementById("nome").value;
     var email = document.getElementById("email").value;
 
