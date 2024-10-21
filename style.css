@@ -1,0 +1,31 @@
+CSS: (styles.css)
+   css
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input, button {
+    width: 100%;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #020508;
+    color: rgb(189, 173, 173);
+    border: none;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+td {
+    padding: 8px;
+}
+
