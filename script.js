@@ -5,7 +5,7 @@ document.getElementById("cadastroForm").addEventListener("submit", function(even
     
     var nome = document.getElementById("nome").value;
     var  email = document.getElementById("email").value;
-    ;
+    
 
     var tabela = document.getElementById("cadastros").getElementsByTagName("tbody")[0];
     var novaLinha = tabela.insertRow();
